@@ -24,4 +24,13 @@
     <MusicCategory>Alternative Rock</MusicCategory>
     <MusicPrice>60,99</MusicPrice>
   </Music>
+<Music>
+    <MusicArtist>deneme</MusicArtist>
+    <MusicAlbum>Parachutes</MusicAlbum>
+    <MusicSong>_108</MusicSong>
+    <MusicImage>_23</MusicImage>
+    <MusicCategory>Alternative Rock</MusicCategory>
+    <MusicPrice>60,99</MusicPrice>
+  </Music>
+
 </ArrayOfMusic>
